@@ -1,1 +1,1 @@
-# Pre-processamento_de_Texto-PLN-
+Selecione 3 técnicas de pré processamento de textos e 10 frases da base de dados do projeto (combine com seu grupo para não usarem as mesmas frases). Organize o código python no Google Colab mostrando o resultado de cada técnica de pré-processamento. Adicione uma explicação para cada técnica de pré-processamento. Monte um pipeline de pré-processamento e apresente o resultado final. Ao menos uma técnica de pré-processamento deve ser implementada "from scratch".
